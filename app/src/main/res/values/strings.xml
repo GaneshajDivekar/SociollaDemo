@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SociollaDemo</string>
+    <string name="no_internet">Please check internet connection</string>
+    <string name="no_internetfound">No Internet Connection Found \n Please Check Your Internet Settings </string>
+</resources>
